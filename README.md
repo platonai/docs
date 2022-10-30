@@ -1,1 +1,1 @@
-# Platon AI documentation using VueJS
+# Platon AI documentation with vue.js
